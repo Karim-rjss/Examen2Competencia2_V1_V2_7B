@@ -1,0 +1,11 @@
+<biblioteca>
+<libro isbn="978-0-13">
+<titulo>Dragon Book</titulo>
+<autor>
+<nombre>Aho</nombre>
+</autor>
+<precio moneda="MXN">
+890.00
+</precio>
+</libro>
+</biblioteca>
